@@ -38,13 +38,13 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 ####  
 <a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter_Notebooks/Smart_meter_london_visualizations.ipynb">Exploratory data Analysis and visualizations</a>
 
-#### Inline Visualization
+#### [Inline Visualization](#viz-anchor)
 
 #### [Summary](#summary-anchor)
 
 
 
-### Inline Visualization
+### <a id='viz-anchor'></a>Inline Visualization
 
 ![image8](https://user-images.githubusercontent.com/31700068/42986122-3ce88126-8ba9-11e8-8c00-633acaef8c0f.png)
 
