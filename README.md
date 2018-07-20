@@ -55,7 +55,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 ![image7](https://user-images.githubusercontent.com/31700068/42984741-e8af4bc2-8ba2-11e8-96e8-31d42b5bf524.png)
 
-<p>Energy consumption is high between month of December-March. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the same months was below 5°C and explains higher energy consumption during this period as heating systems would be used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
+<p>Energy consumption is high from December to March. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the same period was below 5°C and thus, this explains higher energy consumption during this period as heating systems would have been used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
 
 
 
