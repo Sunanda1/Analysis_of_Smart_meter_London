@@ -40,7 +40,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 #### Inline Visualization
 
-#### <a name='summary-anchor'></a>Summary
+#### [Summary](#summary-anchor)
 
 
 
@@ -57,6 +57,6 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 
 
-### Summary
+### <a id='summary-anchor'></a>Summary
 
 <p> Energy consumption is never same during entire cycle of day. It varies based on temperature around and different tariff plans (Std/DToU), subscribers have. ACORN groups show unique characteristics when visualized on their income and debt index. Digging deeper for just group K, we see that occupation of people belonging to Group K answers their economic indices.</p>
