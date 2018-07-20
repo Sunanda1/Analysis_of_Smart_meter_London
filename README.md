@@ -23,11 +23,11 @@
 <li>Halfhourly_dataset.zip : Zip file contains the block files with the half-hourly smart meter measurement. Since, we could not read all the block files present in folder because of its size, we chose a few blocks representing each ACORN group( Affluent/ Comfortable/ Adversity).
 Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80, Block_95, Block_96, Block_105</li>
 
-<li>acorn_details.xls : Contains detail on acorn groups and profile of individuals in each group based on social, demographic, economic and other differentiating aspects.The first three columns are the attributes studied, the ACORN-* is the index of the attribute for each acorn group. At a national scale, the index is 100 if for one column the value is 150 it means that there are 1.5 times more people with this attribute in the ACORN group than at the national scale. You can find an explanation on the <a href="https://acorn.caci.co.uk/what-is-acorn">CACI website </a>.</li>
+<li>acorn_details.xls : It contains detail on acorn groups and profile of individuals in each group based on social, demographic, economic and other differentiating aspects.The first three columns are the attributes studied, the ACORN-* is the index of the attribute for each acorn group. At a national scale, the index is 100. If for one column the value is 150, it means that there are 1.5 times more people with this attribute in the ACORN group than at the national scale. You can find an explanation on the <a href="https://acorn.caci.co.uk/what-is-acorn">CACI website </a>.</li>
 
-<li>weather_hourly_darksky.csv : Contains hourly data from darksky api. It consists of hourly weather information across UK including minimum-maximum temperature and wind data.</li>
+<li>weather_hourly_darksky.csv : It contains hourly data from darksky api. It consists of hourly weather information across UK including minimum-maximum temperature and wind data.</li>
 
-<li>Tariff:Contains half hourly Tariff rates(High, Normal, Low) for the households subscribed to Dynamic Time of Use plan for the year 2013.</li>
+<li>Tariff:It contains half hourly Tariff rates(High, Normal, Low) for the households subscribed to Dynamic Time of Use plan for the year 2013.</li>
 </ol>
 
 ## Table Of Contents:
@@ -36,7 +36,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 #### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meter_london_data_preparation.ipynb">Data preparation</a>
 
 ####  
-<a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter_Notebooks/Smart_meter_london_visualizations.ipynb">Exploratory data Analysis and visualizations</a>
+<a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter_Notebooks/Smart_meter_london_visualizations.ipynb">Exploratory data analysis and visualizations</a>
 
 #### [Inline Visualization](#viz-anchor)
 
