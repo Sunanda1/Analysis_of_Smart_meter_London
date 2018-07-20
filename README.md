@@ -50,15 +50,15 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 ![image8](https://user-images.githubusercontent.com/31700068/42986122-3ce88126-8ba9-11e8-8c00-633acaef8c0f.png)
 
-<p>Energy usage is very high during evening hours, less during day time and mean energy usage dips down to the lowest during late night hours. This pattern remains same irrespective of their tariff rates (high, normal, low). Also, it is seen that less energy is consumed when high rates are charged.</p>
+<p>Energy usage was very high during evening hours, less during day time and mean energy usage dips down to the lowest during late night hours. This pattern remains same irrespective of their tariff rates (high, normal, low). Also, it is seen that less energy is consumed when high rates are charged.</p>
 
 
 ![image7](https://user-images.githubusercontent.com/31700068/42984741-e8af4bc2-8ba2-11e8-96e8-31d42b5bf524.png)
 
-<p>Energy consumption is high from December to March. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the same period was below 5°C and thus, this explains higher energy consumption during this period as heating systems would have been used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
+<p>Energy consumption was high from December to March. The average temperature for the same period was below 5°C and thus, this explains higher energy consumption during this period as heating systems would have been used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
 
 
 
 ### <a id='summary-anchor'></a>Summary
 
-<p> Energy consumption is never same during entire cycle of day. It varies based on temperature around and different tariff plans (Std/DToU), subscribers have. ACORN groups show unique characteristics when visualized on their income and debt index. Digging deeper for just group K, we see that occupation of people belonging to Group K answers their economic indices.</p>
+<p> Energy consumption varies throughout the day. It varies based on temperature around and different tariff plans (Std/DToU), subscribers have. ACORN groups show unique characteristics when visualized on their income and debt index. Digging deeper for just group K, we see that occupation of people belonging to Group K answers their economic indices.</p>
