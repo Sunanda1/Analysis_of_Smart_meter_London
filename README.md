@@ -46,7 +46,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 ### Inline Visualization
 
-https://github.com/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Images/image7.png
+![image7](https://user-images.githubusercontent.com/31700068/42984741-e8af4bc2-8ba2-11e8-96e8-31d42b5bf524.png)
 
 <p>Energy usage is very high during evening hours,less during day time and mean energy usage dips down to the lowest during late night hours. Interesting to see that this pattern remains same irrespective of their tariff rates (high, normal, low).</p>
 
