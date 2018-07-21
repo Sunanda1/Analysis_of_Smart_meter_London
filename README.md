@@ -19,7 +19,8 @@
 </ol>
 
 ### Datasets used:
-Datasets can be found<a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london">here.</a> 
+Datasets can be found<a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london"> here.</a> 
+Tariff dataset can be found<a href="https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households">here</a>
 <ol type="decimal">
 <li>Informations_households.xls : It contains all the information on the households including their ACORN group classification and type of tariff plan to which they are subscribed.</li>
 
@@ -44,6 +45,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 #### [Inline Visualization](#viz-anchor)
 
 #### [Summary](#summary-anchor)
+#### [Next steps](#next-anchor)
 
 
 
@@ -67,6 +69,11 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
     <li> Applied tariff rates</li>
     <li> Different tariff plans(Std./DToU)</li>
     <li> ACORN classification</li></ul>	    
-	
-	
+</p>
+### <a id='next-anchor'></a>Next steps
+
+<p> Few more ideas to explore: 
+<ul><li> Energy consumption pattern during weekdays v/s weekends</li>
+    <li> Energy consumption during holiday season</li>
+    <li> Forecasting energy consumption for each household</li>	
 </p>
