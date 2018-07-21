@@ -54,7 +54,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 <p>Energy usage was very high during evening hours, less during day time and mean energy usage dips down to the lowest during late night hours. This pattern remains same irrespective of their tariff rates (high, normal, low). Also, it is seen that less energy is consumed when high rates are charged.</p>
 
 
-![image7](https://user-images.githubusercontent.com/31700068/42984741-e8af4bc2-8ba2-11e8-96e8-31d42b5bf524.png)
+![image_7](https://user-images.githubusercontent.com/31700068/43030868-9d36188e-8c4b-11e8-9549-9126e762d26e.png)
 
 <p>Energy consumption was high from December to March. The average temperature for the same period was below 5°C and thus, this explains higher energy consumption during this period as heating systems would have been used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
 
