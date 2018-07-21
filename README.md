@@ -19,8 +19,8 @@
 </ol>
 
 ### Datasets used:
-Datasets can be found<a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london"> here.</a> 
-Tariff dataset can be found<a href="https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households">here</a>
+<p>Datasets can be found<a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london"> here.</a></p> 
+<p>Tariff dataset can be found<a href="https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households">here.</a></p>
 <ol type="decimal">
 <li>Informations_households.xls : It contains all the information on the households including their ACORN group classification and type of tariff plan to which they are subscribed.</li>
 
@@ -70,6 +70,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
     <li> Different tariff plans(Std./DToU)</li>
     <li> ACORN classification</li></ul>	    
 </p>
+
 ### <a id='next-anchor'></a>Next steps
 
 <p> Few more ideas to explore: 
