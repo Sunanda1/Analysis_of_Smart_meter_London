@@ -40,10 +40,9 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 #### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meter_london_data_preparation.ipynb">Data preparation</a>
 
 ####  
-<a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter_Notebooks/Smart_meter_london_visualizations.ipynb">Exploratory data analysis and visualizations</a>
+<a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meters_london_visualizations.ipynb">Exploratory data analysis and visualizations</a>
 
 #### [Inline Visualization](#viz-anchor)
-
 #### [Summary](#summary-anchor)
 #### [Next steps](#next-anchor)
 
