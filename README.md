@@ -1,5 +1,7 @@
 # Analysis_of_Smart_meter_readings_in_London
-<p> The goal of this analysis is to understand energy consumption pattern in London. The dataset consisted of 5,566 London households and their energy consumption between November 2011 and February 2014. The readings for each household were taken every half hour. Households in UK have been allocated to CACI ACORN(Classification of Residential Neighborhoods) categories, which is a geo-demographic segmentation of UK's population. There are 6 such categories. Each of these 6 categories are further divided into 3 groups, making a total of 18 groups. For this analysis, households belonging to 'Affluent Achievers', 'Comfortable Communities' and 'Urban Adversity' categories were only considered. More information about ACORN groups can be found <a href="https://acorn.caci.co.uk/what-is-acorn">here</a>.</p>
+
+## Overview:
+<p> The goal of this analysis is to understand energy consumption pattern in London. The dataset consisted of 5,566 London households and their energy consumption between November 2011 and February 2014. The readings for each household were taken every half hour. Households in UK have been allocated to CACI ACORN(Classification of Residential Neighborhoods) categories, which is a geo-demographic segmentation of UK's population. There are 6 such categories. Each of these 6 categories are further divided into groups, making a total of 18 groups. More information about ACORN groups can be found <a href="https://acorn.caci.co.uk/what-is-acorn">here</a>.</p>
 	
 <p>UK's energy tariff plans are categorized into two groups: Dynamic Time of Use and Standard. The Dynamic Time of Use plan is set up in such a way that each household is informed in advance of the specific times when their electricity tariff would be higher or lower than normal price– High (67.20p/kWh), Low (3.99p/kWh) or normal (11.76p/kWh). The Standard plan has a constant flat rate(14.228p/kWh) throughout the day. </p>
 
@@ -24,7 +26,7 @@
 <ol type="decimal">
 <li>Informations_households.xls : It contains all the information on the households including their ACORN group classification and type of tariff plan to which they are subscribed.</li>
 
-<li>Halfhourly_dataset.zip : This zip file contains the block files with the half-hourly smart meter measurement. For this analysis, only a few blocks representing each ACORN group( Affluent/ Comfortable/ Adversity) were used.
+<li>Halfhourly_dataset.zip : This zip file contains the block files with the half-hourly smart meter measurement. For this analysis, households belonging to 'Affluent Achievers', 'Comfortable Communities' and 'Urban Adversity' categories were only considered. 
 Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80, Block_95, Block_96, Block_105</li>
 
 <li>Acorn_details.xls : It contains detail on acorn groups and profile of individuals in each group based on social, demographic, economic and other differentiating aspects.The first three columns are the attributes studied, the ACORN-* is the index of the attribute for each acorn group. At a national scale, the index is 100. If for one column the value is 150, it means that there are 1.5 times more people with this attribute in the ACORN group than at the national scale. You can find an explanation on the <a href="https://acorn.caci.co.uk/what-is-acorn">CACI website </a>.</li>
@@ -34,20 +36,18 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 <li>Tariff:It contains half hourly tariff rates(High, Normal, Low) for the households subscribed to Dynamic Time of Use plan for the year 2013.</li>
 </ol>
 
-## Table Of Contents:
+## Links to render on nbviewer:
 
 
 #### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meter_london_data_preparation.ipynb">Data preparation</a>
 
 #### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meters_london_visualizations.ipynb">Exploratory data analysis and visualizations</a>
 
-#### [Inline Visualization](#viz-anchor)
-#### [Summary](#summary-anchor)
-#### [Next steps](#next-anchor)
 
 
 
-### <a id='viz-anchor'></a>Visualizations
+
+
 
 ![image8](https://user-images.githubusercontent.com/31700068/42986122-3ce88126-8ba9-11e8-8c00-633acaef8c0f.png)
 
