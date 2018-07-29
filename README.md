@@ -12,7 +12,7 @@
 <p>Different tariff plans were introduced in UK to reduce overall energy consumption. Dynamic Time of Use (DToU) plan provided users with different tariff rates(high/normal/low prices)so that subscribers could effectively plan their energy usage, thereby, reducing their overall consumption. Displayed in the chart above is the average energy consumption by different tariff plan subcribers for each ACORN classification over a span of roughly 2 years. It was seen that mean energy consumption for DToU subcribers were lower than the standard tariff plan subscribers in the case of Affluent and Adversity ACORN groups whereas for the comfortable ACORN group it was exactly opposite.</p>
 
 
-![image8](https://user-images.githubusercontent.com/31700068/42986122-3ce88126-8ba9-11e8-8c00-633acaef8c0f.png)
+![img5](https://user-images.githubusercontent.com/31700068/43369640-4422bfd6-9326-11e8-82b9-3d65e57aaa67.png)
 
 <p>Energy usage was very high during evening hours, less during day time and mean energy usage dips down to the lowest during late night hours. This pattern remains same irrespective of their tariff rates (high, normal, low). Also, it is seen that less energy is consumed when high rates are charged.</p>
 
