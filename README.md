@@ -7,7 +7,7 @@
 
 <p>This dataset was used to understand energy consumption patterns across different ACORN groups. Initial analysis consisted of understanding the different ACORN groups and the difference between them. The next steps of analysis consisted of a deep dive into the dataset which contains the records of household energy consumption (monitored every half hour) to try to establish different consumption patterns based on tariff plans and the ACORN groups. Analysis of weather impacts on energy consumption across groups was also conducted. The resulting output comprised of visualizations of various parameters which exhibit energy consumption trends  within and across ACORN groups.</p>
 
-![image5](https://user-images.githubusercontent.com/31700068/43115031-d2d51e50-8eb6-11e8-94c3-514396361157.png)
+![img8](https://user-images.githubusercontent.com/31700068/43369589-e63b121a-9325-11e8-8dfe-4d010fcad9a0.png)
 
 <p>Different tariff plans were introduced in UK to reduce overall energy consumption. Dynamic Time of Use (DToU) plan provided users with different tariff rates(high/normal/low prices)so that subscribers could effectively plan their energy usage, thereby, reducing their overall consumption. Displayed in the chart above is the average energy consumption by different tariff plan subcribers for each ACORN classification over a span of roughly 2 years. It was seen that mean energy consumption for DToU subcribers were lower than the standard tariff plan subscribers in the case of Affluent and Adversity ACORN groups whereas for the comfortable ACORN group it was exactly opposite.</p>
 
