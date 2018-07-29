@@ -47,8 +47,7 @@
 <p>https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households</p>
 
 ### Links to render on nbviewer:
-
-
+#### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meter_london_data_preparation.ipynb">Data preparation</a>
 #### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meters_london_visualization.ipynb">Exploratory data analysis and visualizations</a>
 
 ### Next steps:
