@@ -49,7 +49,7 @@
 ### Links to render on nbviewer:
 #### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meter_london_data_preparation1.ipynb">Data preparation</a>
 
-#### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meters_london_visualizations.ipynb">Exploratory data analysis and visualizations</a>
+#### <a href="http://nbviewer.jupyter.org/github/Sunanda1/Analysis_of_Smart_meter_London/blob/master/Jupyter_notebooks/Smart_meters_london_visualization.ipynb">Exploratory data analysis and visualizations</a>
 
 ### Next steps:
 <p> Few more ideas to explore: 
